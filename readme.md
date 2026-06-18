@@ -20,9 +20,7 @@ I'm a mostly self-taught developer who loves building AI tools and modifications
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="github-readme-stats.vercel.app/api?username=voidcat-geometry-dash&show_icons=true&theme=vue-dark" alt="voidcat's GitHub Stats" height="195" />
-  <img src="github-readme-stats.vercel.app/api/top-langs/?username=voidcat-geometry-dash&layout=compact&theme=vue-dark" alt="Top Languages" height="195" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voidcat-geometry-dash&show_icons=true&theme=radical)
 
 
 ---
