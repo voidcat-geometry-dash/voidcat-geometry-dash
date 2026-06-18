@@ -2,6 +2,7 @@
 
 I'm a self-taught developer from Alaska who enjoys building AI tools, APIs, websites, and Geometry Dash projects. Most of what I know comes from experimenting, breaking things, fixing them, and constantly learning new technologies.
 
+> **Never give up on your dreams. Every bug fixed, every project finished, and every skill learned is one step closer to where you want to be. 💻🚀**
 ---
 
 ## 🚀 About Me
