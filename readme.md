@@ -49,14 +49,16 @@ A collection of websites, APIs, experiments, and developer tools.
 
 ## 🎮 Geometry Dash
 
-**Account:** `Voidcat11`
+**Account:** `Voidcat11`  
+🔗 Stats: https://gdbrowser.com/u/Voidcat11
 
-Things I enjoy:
-- Geode mods
-- AI-powered Geometry Dash tools
-- Level creation
-- APIs and utilities for the community
-- Experimenting with new ideas
+I use Geometry Dash as part of my development work and experiments with Geode mods and tools.
+
+### Activity / Work
+- 🧩 Geode mod ecosystem
+- 🤖 AI-related Geometry Dash tools (EditorAI infrastructure support)
+- 🌐 API experiments for GD-related projects
+- ⚙️ Testing and development inside Geometry Dash systems
 
 ---
 
@@ -80,7 +82,7 @@ I usually have music playing while coding, learning, or working on projects.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Voidcat-geometry-dash&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Voidcat-geometry-dash&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -93,16 +95,14 @@ I usually have music playing while coding, learning, or working on projects.
 - Improve my infrastructure skills
 - Contribute to awesome projects
 - Keep creating and learning
-
+- learn c++
 ---
 
 ## 📫 Contact
 
-📧 admin@voidcat.me
-
-🌐 https://voidcat.me
-
-🐙 https://github.com/Voidcat-geometry-dash
+📧 admin@voidcat.me  
+🌐 https://voidcat.me  
+🐙 https://github.com/Voidcat-geometry-dash  
 
 ---
 
