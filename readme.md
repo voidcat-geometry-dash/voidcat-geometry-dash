@@ -10,9 +10,9 @@ I'm a self-taught developer who loves creating AI tools, websites, APIs, and Geo
 
 - 🐍 Python developer
 - 📚 Currently learning JavaScript
-- 🤖 Interested in AI and automation
+- 🤖 Interested in AI and automation and gaming
 - 🌐 Building websites and APIs
-- 🎮 Geometry Dash player — **Voidcat11**
+- 🎮 Geometry Dash player — **Voidcat14**
 - ☁️ Hosting services and projects on my VPS
 - 💡 Always learning something new
 
@@ -20,8 +20,9 @@ I'm a self-taught developer who loves creating AI tools, websites, APIs, and Geo
 
 ## 🛠️ Current Projects
 
-### 🤖 GitAI
-An AI-powered GitHub assistant designed to help developers with coding, project management, and automation.
+### 🤖 webby-ai
+An AI that runs in github amd anything like it
+looking for help on it
 
 ### 🧠 EditorAI Infrastructure
 Helping support EditorAI by hosting and maintaining the backend AI API infrastructure used by the Geode mod created by entity12208.
@@ -49,8 +50,8 @@ A collection of websites, APIs, experiments, and developer tools.
 
 ## 🎮 Geometry Dash
 
-**Account:** `Voidcat11`  
-🔗 Stats: https://gdbrowser.com/u/Voidcat11
+**Account:** `Voidcat14`  
+🔗 Stats: https://gdbrowser.com/u/Voidcat14
 
 I use Geometry Dash as part of my development work and experiments with Geode mods and tools.
 
